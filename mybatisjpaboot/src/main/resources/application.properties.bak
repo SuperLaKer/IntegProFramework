@@ -1,0 +1,8 @@
+server.port=8888
+spring.application.name=my_springBoot_mybatis_jpa
+spring.datasource.url=jdbc:mysql://192.168.3.3:33306/xc_course?characterEncoding=utf-8
+spring.datasource.username=root
+spring.datasource.password=121388
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
+spring.datasource.dr
