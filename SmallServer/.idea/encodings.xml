@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/smallServerA_father" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smallServerB_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smallServerD_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smallServerE_models" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smallServerF_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smallServerG_all" charset="UTF-8" />
+  </component>
+</project>
