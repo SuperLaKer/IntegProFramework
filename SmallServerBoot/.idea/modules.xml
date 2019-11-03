@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SmallServer.iml" filepath="$PROJECT_DIR$/.idea/SmallServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallServerA_father/smallServerA-father.iml" filepath="$PROJECT_DIR$/smallServerA_father/smallServerA-father.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallServerD_dao/smallServerD_dao.iml" filepath="$PROJECT_DIR$/smallServerD_dao/smallServerD_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallServerE_models/smallServerE_models.iml" filepath="$PROJECT_DIR$/smallServerE_models/smallServerE_models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallServerF_api/smallServerF_api.iml" filepath="$PROJECT_DIR$/smallServerF_api/smallServerF_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallServerG_all/smallServerG_all.iml" filepath="$PROJECT_DIR$/smallServerG_all/smallServerG_all.iml" />
+    </modules>
+  </component>
+</project>

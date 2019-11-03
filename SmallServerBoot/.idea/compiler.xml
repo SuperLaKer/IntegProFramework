@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="smallServerF_api" />
+        <module name="smallServerE_models" />
+        <module name="smallServerG_all" />
+        <module name="smallServerA-father" />
+        <module name="smallServerD_dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="smallServerA-father" target="1.8" />
+      <module name="smallServerB_web" target="1.7" />
+      <module name="smallServerD_dao" target="1.8" />
+      <module name="smallServerE_models" target="1.8" />
+      <module name="smallServerF_api" target="1.8" />
+      <module name="smallServerG_all" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="smallServerA-father" options="-parameters" />
+      <module name="smallServerB_web" options="-parameters" />
+      <module name="smallServerD_dao" options="-parameters" />
+      <module name="smallServerE_models" options="-parameters" />
+      <module name="smallServerF_api" options="-parameters" />
+      <module name="smallServerG_all" options="-parameters" />
+    </option>
+  </component>
+</project>
